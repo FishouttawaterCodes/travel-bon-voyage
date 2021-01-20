@@ -1,0 +1,44 @@
+html {
+  font-size: 16px;
+  background-position: center;
+  background-size: cover;
+  background-image: url("/src/travel.jpg");
+  height: 100%;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5rem;
+}
+
+.button-wrap {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  margin-top: 4rem;
+  padding-bottom: 2rem;
+  text-align: center;
+}
+
+.footer a {
+  text-decoration: none;
+  padding-bottom: 0.25rem;
+  border-bottom: 2px solid greenyellow;
+  color: white;
+}
+
+.footer a:hover {
+  border: 2px solid greenyellow;
+  background-color: greenyellow;
+}
+
+.footer span {
+  margin-top: 0.75rem;
+}
