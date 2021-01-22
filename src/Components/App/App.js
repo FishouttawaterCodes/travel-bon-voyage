@@ -27,7 +27,7 @@ class App extends React.Component {
           <Button label="Get a new travel tip" onClick={this.handleClick}/>
         </div>
         <div className="footer">
-          <span>Travel Bon Voyage developed by <a href="https://github.com/FishouttawaterCodes" target="_blank" rel="noopener noreferrer">Fishouttwater</a></span>
+          <span>Travel Bon Voyage developed by <a href="https://github.com/FishouttawaterCodes" target="_blank" rel="noopener noreferrer">Fishouttawater</a></span>
           <span>View project on <a href="https://github.com/FishouttawaterCodes/travel-bon-voyage" target="_blank" rel="noopener noreferrer">GitHub</a></span>
         </div>
       </div>

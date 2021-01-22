@@ -58,6 +58,26 @@ const locations = [
  {
   title: "Yankari National Park",
   description: "In Bauchi State is the 2,244 km2 Yankari National Park; a home to wildlife in the state’s South-Central part. It houses a lot of natural warm water springs and it is the one of West Africa’s eco-destinations."
+ },
+ {
+  title: "Kainji National Park",
+  description: "Kainji National Park was established in 1978 which has 3 distinct sectors, the Borgu Game Reserve, the Zugurma Game Reserve and the Kainji Lake where fishing is prohibited. It is situated in Kwara and Niger State."
+ },
+ {
+  title: "Abuja Arts And Crafts Village",
+  description: "Abuja Arts and Crafts Village is located at the Central Business District in Abuja , behind the Silverbird Cinema. There are lots of artefacts and handicrafts here for visitors to see and even buy."
+ },
+ {
+  title: "The Ancient Nok Settlement, Jaba, Kaduna State",
+  description: "All over the world, the antiquities from the Ancient Nok Settlement are seen in galleries and museums. This little archaeologists’ haven is located in Jaba Local government. It was here that the Terracotta figurine was discovered in the world."
+ },
+ {
+  title: "Ancient Kano City Walls",
+  description: "There are much more to the beautiful medieval city of Kano when you see the impressive ancient Kano walls (listed on the UNESCO World Heritage Sites’ tentative list) . This 14km radius earth monument has a spiritual, cultural and historical significance. It is associated with the Emir’s Palace."
+ },
+ {
+  title: "Ogbunike Caves, Enugu State",
+  description: "Ogbunike Caves make an idea tourists destination. These caves are closely associated with historical and spiritual significance. There are 317 steps that need to be used to descend down to the caves. It is a UNESCO Heritage Site."
  }
 ];
 
